@@ -43,16 +43,11 @@ We use the **Google Gemini API** to fetch real-time, device-specific Free Fire s
 3. Gemini AI generates optimized sensitivity settings.
 4. Settings and explanation are shown in real-time.   
 
-## Screenshots
-
-### Screenshot 1
-https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-43.jpg?raw=true
-
-### Screenshot 2
-https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-49.jpg?raw=true
-
-### Screenshot 3
-https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-51.jpg?raw=true
+<p float="left">
+  <img src="https://github.com/REBIN2003/ff-sensi-headshots-2025/raw/main/photo_2025-05-08_23-07-43.jpg" width="30%" />
+  <img src="https://github.com/REBIN2003/ff-sensi-headshots-2025/raw/main/photo_2025-05-08_23-07-49.jpg" width="30%" />
+  <img src="https://github.com/REBIN2003/ff-sensi-headshots-2025/raw/main/photo_2025-05-08_23-07-51.jpg" width="30%" />
+</p>
 
 ## 📚 Content Sections
 
