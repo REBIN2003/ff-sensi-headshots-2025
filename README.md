@@ -41,7 +41,18 @@ We use the **Google Gemini API** to fetch real-time, device-specific Free Fire s
 1. Enter your device brand and model.
 2. The system fetches detailed specs of your device.
 3. Gemini AI generates optimized sensitivity settings.
-4. Settings and explanation are shown in real-time.
+4. Settings and explanation are shown in real-time.   
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](https://github.com/your-username/your-repo-name/blob/main/assets/photo_2025-05-08_23-07-43.jpg?raw=true)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/your-username/your-repo-name/blob/main/assets/photo_2025-05-08_23-07-49.jpg?raw=true)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/your-username/your-repo-name/blob/main/assets/photo_2025-05-08_23-07-51.jpg?raw=true)
 
 ## 📚 Content Sections
 
