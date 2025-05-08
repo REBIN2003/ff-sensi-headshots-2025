@@ -46,13 +46,13 @@ We use the **Google Gemini API** to fetch real-time, device-specific Free Fire s
 ## Screenshots
 
 ### Screenshot 1
-(https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-43.jpg?raw=true)
+https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-43.jpg?raw=true
 
 ### Screenshot 2
-!(https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-49.jpg?raw=true)
+https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-49.jpg?raw=true
 
 ### Screenshot 3
-!(https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-51.jpg?raw=true)
+https://github.com/REBIN2003/ff-sensi-headshots-2025/blob/main/photo_2025-05-08_23-07-51.jpg?raw=true
 
 ## 📚 Content Sections
 
