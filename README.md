@@ -65,6 +65,6 @@ We use the **Google Gemini API** to fetch real-time, device-specific Free Fire s
 ## 📩 Contact & Credits
 
 Created by **Nameless X eSports**  
-For support, reach us at: `info@namelessxesports.in`
+For support, reach us at: `admin@namelessx.in`
 
 © 2025 Nameless X. All Rights Reserved.
